@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @TheOneWhoBurns
-- 👀 I’m interested in [common hobby]
-- 🌱 I’m currently learning [popular programing lenguaje]
-- 💞️ I’m looking to collaborate on [stereotipical project]
-- 📫 How to reach me [email adress]
+
